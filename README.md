@@ -1,2 +1,5 @@
 # hello-world
-Hello world project
+
+Hi Humans!
+
+Hubot here, I like Node.js blah blah blah
